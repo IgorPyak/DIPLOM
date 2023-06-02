@@ -8,6 +8,8 @@
 * 39 не успешных 
 
 #### Отчет Alure:
+![Скриншот](https://github.com/IgorPyak/DIPLOM/assets/111189303/8b7fc349-dc28-4f83-9fed-019c05342154)
+
 
 
 
