@@ -1,5 +1,7 @@
 package ru.netology.data;
 
+import lombok.val;
+
 import java.sql.SQLException;
 
 import static java.sql.DriverManager.getConnection;
